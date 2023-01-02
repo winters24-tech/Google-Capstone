@@ -1,3 +1,6 @@
+# This is my R script used to complete the project
+
+
 # Step 1: Getting data into RStudio and loading libraries
 ## installing packages and loading libraries
 install.packages("dplyr")
