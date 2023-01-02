@@ -12,7 +12,7 @@ The data was downloaded directly from the RStudio "Diamonds" dataset
 
 
 ### Process Phase
-After regularizing and importing the data, the first step was to inspect each attribute for anomalies. Any data I was uncertain about was marked for exclusion from the final dataset. A full description of the process is described here: 
+After regularizing and importing the data, the first step was to inspect each attribute for anomalies. Any data I was uncertain about was marked for exclusion from the final dataset. A full description of the process is described here: [R.Script](https://github.com/winters24-tech/Google-Capstone/blob/main/Diamonds_Capstoneproject_Script.R)
 
 ### Analyse Phase
 In this phase, queries were created to capture important takeaways that were highlighted in the data visualisations.
