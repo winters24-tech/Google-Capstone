@@ -5,10 +5,10 @@
 ## This Case Study was completed as part of the Google Data Analytics Professional Certificate.
 
 ### Objective (Ask Phase)
-To analyse how annual members and casual riders use Cyclistic bikes differently in order to determine the best marketing strategy to convert casual riders into annual members.
+Analyze the data and find how diamonds can differ to help the marketing team build a digital marketing strategy to find the sweet spot in making diamonds to sell.
 
 ### Prepare Phase
-The data was downloaded directly from the RStudio "Diamonds" dataset
+The data was downloaded directly from the RStudio "Diamonds" dataset, which comes from the Loose Diamonds Search Engine.
 
 
 ### Process Phase
