@@ -1,24 +1,59 @@
-# Google-Capstone
+# Diamond Data Analysis
 
-## Google Analytics Capstone Project using RStudio "Diamonds" dataset
+An exploratory data analysis project completed as part of the **Google Data Analytics Professional Certificate**. The project uses R and RStudio to explore the `diamonds` dataset and examine relationships between diamond characteristics and pricing.
 
-## This Case Study was completed as part of the Google Data Analytics Professional Certificate.
+## Objective
 
-### Objective (Ask Phase)
-Analyze the data and find how diamonds can differ to help the marketing team build a digital marketing strategy to find the sweet spot in making diamonds to sell.
+The goal of this project was to explore how diamond characteristics such as **carat, cut, color, and clarity** relate to diamond prices. The analysis was designed to identify patterns and trends that could potentially support marketing and pricing decisions.
 
-### Prepare Phase
-The data was downloaded directly from the RStudio "Diamonds" dataset, which comes from the Loose Diamonds Search Engine.
+## Dataset
 
+The project uses the built-in R `diamonds` dataset, which contains information on approximately 54,000 diamonds. Key attributes include:
 
-### Process Phase
-After regularizing and importing the data, the first step was to inspect each attribute for anomalies. Any data I was uncertain about was marked for exclusion from the final dataset. A full description of the process is described here: [R.Script](https://github.com/winters24-tech/Google-Capstone/blob/main/Diamonds_Capstoneproject_Script.R)
+* Price
+* Carat
+* Cut
+* Color
+* Clarity
+* Dimensions
 
-### Analyse Phase
-In this phase, queries were created to capture important takeaways that were highlighted in the data visualisations.
+## Analysis Process
 
-### Share Phase
-Visualisations were created using RStudio and included in the powerpoint presentation.
+The project followed several stages of the data analysis process:
 
-### Act Phase
-A [powerpoint presentation](https://docs.google.com/presentation/d/1BaoyQzla-NgVSiWzDzHxQQXfB9yCP79E8DybN9JmdLk/edit#slide=id.gc6f980f91_0_0) was compiled with a summary.
+* Loaded and reviewed the dataset in RStudio.
+* Inspected the dataframe structure and summary statistics.
+* Checked categorical variables for inconsistencies.
+* Reviewed the dataset for missing values.
+* Created calculated and visual summaries to explore patterns.
+* Compared diamond price distributions across different characteristics.
+
+## Visualizations
+
+Using **ggplot2**, the project includes:
+
+* Price and carat histograms
+* Carat vs. price scatterplot
+* Diamond counts by cut
+* Cut and color comparisons
+* Cut and clarity comparisons
+* Price distributions by cut
+* Price distributions by color
+
+## Tools & Technologies
+
+* R
+* RStudio
+* `dplyr`
+* `tidyr`
+* `tidyverse`
+* `ggplot2`
+* `skimr`
+
+## Skills Demonstrated
+
+This project demonstrates experience with **data exploration, data cleaning, descriptive analysis, categorical comparisons, data visualization, and communicating patterns through visual analysis**.
+
+## Project Presentation
+
+The accompanying PowerPoint presentation summarizes the analysis, visualizations, and key findings from the project.
