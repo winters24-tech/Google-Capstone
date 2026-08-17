@@ -56,4 +56,4 @@ This project demonstrates experience with **data exploration, data cleaning, des
 
 ## Project Presentation
 
-The accompanying PowerPoint presentation summarizes the analysis, visualizations, and key findings from the project.
+The accompanying [presentation](https://docs.google.com/presentation/d/1BaoyQzla-NgVSiWzDzHxQQXfB9yCP79E8DybN9JmdLk/edit?usp=sharing) summarizes the analysis, visualizations, and key findings from the project.
